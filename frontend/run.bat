@@ -1,0 +1,3 @@
+@echo off
+echo Starting Legacy Frontend on port 3001...
+npm run dev
